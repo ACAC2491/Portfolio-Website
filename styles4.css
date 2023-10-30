@@ -1,0 +1,65 @@
+.container{
+    display : flex;
+    flex-wrap: wrap;
+    column-gap: 1em;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.box{
+    width : 300px;
+    height : 900px;
+    border-radius : 15px;
+    font-size: 30px;
+    border-color: black;
+    border-style: solid;
+}
+
+#box1{
+    background-color: white;
+}
+
+#box2{
+    background-color: white;
+}
+
+.t1{
+    font-style: italic;
+    font-family: cursive;
+    color:chocolate;
+}
+.t2{
+    font-style: italic;
+    font-family: cursive;
+    color : blueviolet;
+}
+.t3{
+    font-style: italic;
+    font-family: cursive;
+    color :darkgreen;
+}
+.t4{
+    font-style: italic;
+    font-family: cursive;
+    color :navy;
+}
+
+body{
+    font-size : 40px;
+}
+
+.img{
+    margin-left : 10px;
+}
+
+.bulb{
+    margin-left : 20px;
+}
+.cube{
+    margin-left : 20px;
+}
+
+.title{
+    font-style: italic;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:crimson;
+}
